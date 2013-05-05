@@ -34,3 +34,7 @@ nosetests.xml
 .project
 .pydevproject
 .settings/*
+
+media/editor/*
+!media/editor/remove_file
+
