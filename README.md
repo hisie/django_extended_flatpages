@@ -11,7 +11,7 @@ In settings:
 
 INSTALLED_APPS = (
 	...
-	
+    'django.contrib.flatpages',
 	...
     'ckeditor',
     'extended_flatpages',
